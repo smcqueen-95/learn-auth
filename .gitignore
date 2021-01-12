@@ -12,7 +12,10 @@
 /build
 
 #
-./auth.config.js
+/src/auth.config.js
+
+#
+/.eslintcache
 
 # misc
 .DS_Store
